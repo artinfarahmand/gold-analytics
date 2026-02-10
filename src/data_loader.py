@@ -1,5 +1,3 @@
-# src/data_loader.py
-# وظیفه: بارگذاری و استانداردسازی داده‌های طلا و رویدادهای اقتصادی
 import pandas as pd
 
 def load_gold_prices(path):

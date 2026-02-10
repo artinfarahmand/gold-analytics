@@ -1,5 +1,4 @@
 
-#وظیفه: محاسبه جدول مقایسه اثر اخبار # src/analysis.py
 import pandas as pd
 import numpy as np
 from src.preprocessing import get_event_window_returns
